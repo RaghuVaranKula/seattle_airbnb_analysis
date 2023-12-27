@@ -5,9 +5,12 @@ The Seattle Airbnb homes data
 Project_1.py, source code for all images and results.
 
 # Unlocking Insights: A Deep Dive into Data Analysis
-1) Which is the best month for sales for Airbnb?
-2) Which is the best month for more availability for customers?
-3) Which month has medium price properties with 100% availability?
+1) Which is the best month for sales in 2016-2017 for Airbnb?
+2) When will be the 75% lower price properties available?
+3) How much property is with instant booking avilabililty	and flexible cancellation policy?
+4) Which month has 75% higher value properties available to the awarness of customers?
+5) Which month has most availability of properties?
+6) Which property has most reviews?
 
 # Installion
 Additional library requirements can be found in 'requirements.txt'. Python 3.* should allow the code to run without issues.

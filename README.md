@@ -12,7 +12,7 @@ Project_1.py, source code for all images and results.
 5) Which month has most availability of properties?
 6) Which property has most reviews?
 
-# Installion
+# Installation
 Additional library requirements can be found in 'requirements.txt'. Python 3.* should allow the code to run without issues.
 
 # Business Understanding

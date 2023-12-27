@@ -1,0 +1,5 @@
+Airbnb is an online service that connects hosts (who rent out rooms/apartments/houses) with guests (who pay to stay in these housing units). Hosts charge rent per evening in addition to fees, while Airbnb takes a portion of the overall payment as compensation for hosting the listings.
+
+Clearly, hosts want to rent their units out as much as possible, at as high a rate as possible, to maximize profits. Guests want the best deal they can find - a good stay with a low price. Airbnb's interests are aligned more with hosts than guests, though they'd also like to increase their rates as much as is possible without driving hosts away.
+
+All groups are going to be interested in how the number of units on the market and their prices vary throughout the year, as it will affect guests' decisions about when/where to go on vacation and how long to stay for. This is what I'll be focusing my analysis on.

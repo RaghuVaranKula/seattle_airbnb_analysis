@@ -21,3 +21,13 @@ Airbnb, founded in 2008, has significantly disrupted the traditional hospitality
 What sets Airbnb apart is its use of technology to facilitate a seamless, user-friendly experience. The platform simplifies the process of listing, searching, and booking accommodations. Hosts can easily list their properties, set their prices, and manage bookings, while travelers can effortlessly search for and compare various lodging options. Additionally, Airbnb's review system, which allows both hosts and guests to rate and review each other, plays a crucial role in building trust and ensuring the quality of experiences. This peer-to-peer review system has been fundamental in promoting a sense of community and reliability, crucial in the sharing economy.
 
 Moreover, Airbnb's impact extends beyond just the hospitality sector. It has become a significant player in the broader travel and tourism industry, offering 'Experiences' that allow locals to provide tours, classes, and unique activities to travelers. This aspect of Airbnb not only enriches the travel experience for guests but also provides additional income sources for local communities. By continuously innovating and expanding its services, Airbnb has not only changed how people travel but also how they interact with and experience new destinations, making it a pivotal player in the modern travel landscape.
+
+# About Data
+
+# 1) Calender.csv:
+The data in "calendar_Seattle.csv" consists of the following columns:
+
+listing_id: Identifier for the listing. /n
+date: The date for the listing entry.
+available: Indicates whether the listing is available on the given date ('t' for available, 'f' for not available).
+price: The price of the listing for the given date.

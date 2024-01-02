@@ -1,6 +1,9 @@
 # Airbnb Seattle Analysis
 This project focuses on analyzing Airbnb data for Seattle to gain valuable insights into various aspects of the rental market. We aim to answer several key questions and provide data-driven findings to enhance understanding.
 
+# Medium Blogpost
+The link for this analysis in Medium is [here](https://medium.com/@raghuvarankula/airbnb-seattle-analysis-0d8249d0d83f)
+
 # Table of Contents
 [Business Understanding](#business-understanding)  
 [Unlocking Insights](#unlocking-insights-a-deep-dive-into-data-analysis)      

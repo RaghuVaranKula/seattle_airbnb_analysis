@@ -27,7 +27,7 @@ Airbnb is a popular platform for both hosts and travelers. The platform simplifi
 7)What insights can be drawn about overall guest satisfaction and listing performance using mean, median, and standard deviation metrics?   
 
 # Data
-Our analysis is based on the Airbnb Seattle dataset, which can be found in https://www.kaggle.com/datasets/airbnb/seattle/data. This dataset contains information about listings, reviews, and calendar data.
+Our analysis is based on the Airbnb Seattle dataset, which can be found in [here](https://www.kaggle.com/datasets/airbnb/seattle/data). This dataset contains information about listings, reviews, and calendar data.
 
 # Analysis Questions
 We will address the following questions in our analysis:

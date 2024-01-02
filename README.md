@@ -9,7 +9,8 @@ This project focuses on analyzing Airbnb data for Seattle to gain valuable insig
 [Installation](#Installation)    
 [Results](#Results)     
 [Conclusion](#Conclusion)  
-[Contributing](#Contributing)    
+[Contributing](#Contributing)  
+[Acknowledgement](#Acknowledgement)    
 [License](#License)    
 
 
@@ -79,5 +80,8 @@ This project aims to deliver data-driven insights into the Seattle Airbnb market
 # Contributing
 If you would like to contribute to this project or have suggestions, please feel free to open an issue or submit a pull request.
 
+# Acknowledgement
+This dataset is part of Airbnb Inside, and the original source can be found [here](http://insideairbnb.com/get-the-data.html).
+
 # License
-This project is licensed under the GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007.
+This project is licensed under [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).

@@ -21,7 +21,7 @@ Airbnb is a popular platform for both hosts and travelers. The platform simplifi
 1)How does the availability of properties on Airbnb vary by month in a single year?  
 [Question_1.ipynb](https://github.com/RaghuVaranKula/seattle_airbnb_analysis/blob/main/Question_1.ipynb)   
 2)If availability is treated as occupancy, what would be the revenue for each month in that year?    
-[Question_3.ipynb](https://github.com/RaghuVaranKula/seattle_airbnb_analysis/blob/main/Question_2.ipynb)   
+[Question_2.ipynb](https://github.com/RaghuVaranKula/seattle_airbnb_analysis/blob/main/Question_2.ipynb)   
 3)How does the rent price per day vary for different properties?    
 [Question_3.ipynb](https://github.com/RaghuVaranKula/seattle_airbnb_analysis/blob/main/Question_3.ipynb)   
 4)What is the relationship between property types and rent price per day for those willing to spend up to $100?   
@@ -43,27 +43,27 @@ We will address the following questions in our analysis:
 Explore how property availability varies by month in a single year.
 
 
-2)Revenue Calculation:  
+2) Revenue Calculation:  
 Calculate potential revenue based on availability data.
 
 
-3)Rent Price Variation:  
+3) Rent Price Variation:  
 Analyze how the rent price per day varies among different properties.
 
 
-4)Property and Price Relationship:  
+4) Property and Price Relationship:  
 Examine the relationship between property types and rent price per day for those with a budget of up to $100.
 
 
-5)Price Prediction Model:  
+5) Price Prediction Model:  
 Build a predictive model for property prices using data from 'listings.csv' and identify influential factors.
 
 
-6)Top 15 Listings:  
+6) Top 15 Listings:  
 Identify and present the top 15 Airbnb listings with the most reviews.
 
 
-7)Guest Satisfaction Analysis:  
+7) Guest Satisfaction Analysis:  
 Provide insights into overall guest satisfaction and listing performance using mean, median, and standard deviation metrics.
 
 

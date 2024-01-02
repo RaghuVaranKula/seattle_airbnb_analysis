@@ -2,10 +2,10 @@
 This project focuses on analyzing Airbnb data for Seattle to gain valuable insights into various aspects of the rental market. We aim to answer several key questions and provide data-driven findings to enhance understanding.
 
 # Table of Contents
-[Business Understanding](# Business Understanding)  
-[Unlocking Insights](# Unlocking Insights: A Deep Dive into Data Analysis)      
+[Business Understanding](#Business_Understanding)  
+[Unlocking Insights](#Unlocking_Insights:_A_Deep_Dive into Data Analysis)      
 [Data](#Data)     
-[Analysis Questions](# Analysis Questions)    
+[Analysis Questions](#Analysis_Questions)    
 [Installation](#Installation)    
 [Results](#Results)     
 [Conclusion](#Conclusion)  
